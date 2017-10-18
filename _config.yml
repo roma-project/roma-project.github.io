@@ -1,7 +1,7 @@
 # site settings
 title: RPP
 subtitle: The Roma People's Project at Columbia University
-email: cristianagrigore@columbia.edu
+email: cristiana.grigore@columbia.edu
 description: "The Roma People's Project at Columbia University will spotlight the Roma people and expand Roma studies by examining topics such as identity and stigma, mobility and displacement, and archival research and digital scholarship. The RPP aims to build a digital platform that identifies, examines, and curates material about how Roma define themselves and how others have represented them."
 baseurl: "/roma-project" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -11,7 +11,7 @@ city: New York
 state: NY
 zip_code: 10027
 country: United States of America
-phone: (917) 327-6534
+phone: (212) 851-5845
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
