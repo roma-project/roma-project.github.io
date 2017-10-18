@@ -2,7 +2,7 @@
 layout: post
 title: "Introducing the Roma People's Project"
 description: "In this post we introduce our project to the Columbia community and the public at large." 
-image: assets/images/pic01.jpg
+image: assets/images/roma-discussion.jpg
 ---
 
 Hello and welcome to the *Roma People's Project at Columbia University*!
