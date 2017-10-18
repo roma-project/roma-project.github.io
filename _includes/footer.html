@@ -41,8 +41,11 @@
 					<span class="icon alt fa-home"></span>
 					<h3>Address</h3>
 					<span>
-					{% if site.street_address %}
-					    {{ site.street_address }}<br />
+					{% if site.street_address1 %}
+					    {{ site.street_address1 }}<br />
+					{% endif %}
+					{% if site.street_address2 %}
+					    {{ site.street_address2 }}<br />
 					{% endif %}
 					{% if site.city %}
 					    {{ site.city }},
@@ -100,8 +103,8 @@
 			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+				<li>Using the Forty theme by <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li>Implementation: <a href="http://www.elotroalex.com" target="_blank">Alex Gil</a></li>
 
 			</ul>
 		</div>

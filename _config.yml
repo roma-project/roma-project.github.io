@@ -6,7 +6,8 @@ description: "The Roma People's Project at Columbia University will spotlight th
 baseurl: "/roma-project" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 406 Schermerhorn Hall, MC 5501; 1190 Amsterdam Ave
+street_address1: 406 Schermerhorn Hall, MC 5501 
+street_address2: 1190 Amsterdam Ave
 city: New York
 state: NY
 zip_code: 10027
@@ -20,8 +21,8 @@ tiles-count: 6
 # social settings
 facebook_url:
 github_url: https://github.com/cristianagrigore/roma-project
-instagram_url: https://instagram.com
-twitter_url: https://twitter.com/andrewbanchich
+instagram_url: 
+twitter_url: 
 
 # build settings
 markdown: kramdown
