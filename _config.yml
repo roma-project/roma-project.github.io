@@ -19,10 +19,10 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-facebook_url:
+facebook_url: https://www.facebook.com/romapeoplesproject/
 github_url: https://github.com/cristianagrigore/roma-project
-instagram_url: 
-twitter_url: 
+instagram_url: https://www.instagram.com/romapeoplesproject/
+twitter_url: https://twitter.com/RPP_Columbia
 
 # build settings
 markdown: kramdown
