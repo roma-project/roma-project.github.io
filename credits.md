@@ -9,7 +9,7 @@ Cristiana Grigore, Founder
 Cal Brisbin, Research Assistant
 Stephanie Eichman, Intern
 
-## Partner
+## Partners
 Center for Justice at Columbia University
 The Center hosts the Roma People’s Project and support its development. The RPP aligns with the Center’s mission of empowering vulnerable people who suffer from criminalized identities, discrimination, stigma, and lack of inclusion within mainstream society.
 
