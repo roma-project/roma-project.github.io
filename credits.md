@@ -7,7 +7,6 @@ nav-menu: true
 ## The Core Team
 - **Cristiana Grigore**, Founder & Lead
 - **Cal Brisbin**, Research Assistant
-- **Stephanie Eichman**, Intern
 
 ## Production Partners
 - **[Alex Gil](http://www.elotroalex.com)**, Digital Scholarship Coordinator, Columbia University 
@@ -27,8 +26,11 @@ The *xpmethod* group is helping ideate the digital strategy for the project, and
 **Heyman Center for the Humanities**   
 The Heyman Center co-sponsors the launch event for the Roma People’s Project. 
 
+**The Council for European Studies**
+
 ## Sponsors
 - Jerry Heymann
 
 ## Advisory Board
 - Tom O’Handley
+- Nicole Shea
