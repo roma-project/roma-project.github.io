@@ -29,7 +29,7 @@ The Heyman Center co-sponsors the launch event for the Roma People’s Project.
 **The Council for European Studies**
 
 ## Sponsors
-- Jerry Heymann
+- Heymann-Wolf Foundation
 
 ## Advisory Board
 - Tom O’Handley
