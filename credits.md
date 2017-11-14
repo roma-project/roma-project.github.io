@@ -32,5 +32,10 @@ The Heyman Center co-sponsors the launch event for the Roma People’s Project.
 - Heymann-Wolf Foundation
 
 ## Advisory Board
-- Tom O’Handley
-- Nicole Shea
+
+- Ronald Lee, LL.D, Author, Lecturer, Founding Member of the Roma Community Centre of Toronto
+- Stefania Magidson, Founder and President,Blue Heron Foundation
+- Tom O’Handley, Director of Development at Cornell Tech
+- Nicole Shea, PhD, Director of the Council for European Studies, Executive Editor of EuropeNow
+
+More Advisory Board updates will be announced soon.
