@@ -3,7 +3,7 @@ title: RPP
 subtitle: The Roma People's Project at Columbia University
 email: cristiana.grigore@columbia.edu
 description: "The Roma People's Project at Columbia University will spotlight the Roma people and expand Roma studies by examining topics such as identity and stigma, mobility and displacement, and archival research and digital scholarship. The RPP aims to build a digital platform that identifies, examines, and curates material about how Roma define themselves and how others have represented them."
-baseurl: "/roma-project" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address1: 406 Schermerhorn Hall, MC 5501 
