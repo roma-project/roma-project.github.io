@@ -10,15 +10,13 @@ nav-menu: true
 
 ## Background: The Plight of the Roma People
 
-Most people know so little about the Roma that the very word is often alien to them. However, the term “Gypsy” (as well as “Travelers”) is more widely recognized and often serves as the only point of reference. Yet, the word conjures images of beggars and pickpockets, or romantic images such as fortune-tellers and dancers. Hence, many people, especially in the United States, believe “Gypsy” refers only to a lifestyle and not an ethnic group. Others mistakenly assume “gypsies” are a thing of the past.
-
 The Roma originated in Northern India and migrated to Europe about a thousand years ago. Roma subgroups went through periods of nomadism, which is an enduring part of the public perception of “Gypsies”. Today, most of the Roma are sedentary or semi-sedentary, and the population is estimated to be 8-12 million in Europe.
 
 Estimates vary because many Roma hide their ethnicity. Nonetheless, Roma are Europe’s largest ethnic minority and sizable populations are also found throughout the world. The New York area is a particularly prominent hub for Roma.
 
 ## Global Significance of the Roma People's Project
 
-Finding material about the Roma presents a challenge. The Roma have never had a nation-state of their own or a geographical home territory, thus often appearing as a subject tangential to other regions or fields of study. As a result, few institutions prioritize acquiring material about Roma or organizing the information contained in their collections.
+Finding material about the Roma presents a challenge. The Roma have never had a nation-state of their own, thus often appearing as a subject tangential to other regions or fields of study. As a result, few institutions prioritize acquiring material about Roma or organizing the information contained in their collections.
 
 These complications—in conjunction with budgetary constraints and the scarcity of Roma experts—allow books, scholarly documents, and other material about Roma to “fall through the cracks,” depriving people of the opportunity to gain insight from the Roma experience. A digital archive would provide readily accessible resources.
 
