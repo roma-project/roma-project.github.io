@@ -15,6 +15,8 @@ The project will facilitate the study of Roma identity, history and culture in o
  
 Certain figures place the number of Roma in Europe at around 12 million, making them the largest European minority. Also there is a significant Roma population worldwide as well. In the U.S. alone, there is an estimated one million Roma, with more arriving each year. However, the exact number of Roma people remains unclear and is most likely higher, as many hide their identity for fear of being stigmatized and excluded.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IzvYshiNHlA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 These common stereotypes and images about Gypsies have little to do with Roma history or their day-to-day realities. *The Roma People's Project* seeks to remedy this lack of authentic visibility and address both how the Roma have been represented by others and how the Roma have represented themselves. One of the project's core initiatives is the creation of a Roma Digital Archive that will identify, analyze, and centralize compelling scholarly material about the Roma. This archive will serve to spotlight Roma issues within academia and give Roma voices a space in the public consciousness. This blog will share information on the archive's development and collections.
  
 In addition to the archive, the Roma People's project will also include other endeavors, such as the launch event in partnership with the [Heyman Center for the Humanities](http://heymancenter.org). This event is on November 14th, 2017. Similarly, many of the themes mentioned in this introductory blog post will be explored in greater detail along the way.   
