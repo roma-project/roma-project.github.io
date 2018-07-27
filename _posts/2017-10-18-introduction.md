@@ -13,7 +13,7 @@ Thank you for visiting our page. As initiator of the *Roma People's Project*, I 
  
 *The Roma People’s Project* is a start-up initiative that aims to create a space at Columbia University for academic research on the Roma people—commonly, known as "Gypsies". However, “Gypsy” is a misnomer that has long been used to refer to the Roma people, who first entered Europe about a thousand years ago. It arose because of a misconception that the Roma came from Egypt, when, in reality, they are believed to have emigrated from North India. In time, this label Gypsy has been charged with both negative connotations, such as vagrancy, savagery, criminality and eternal Otherness, and with romantic ones, such as such as travel, freedom, passion, and creativity--themes associated with "Bohemians", which the Roma were once called by the French.
 
-![A picture of people talking]({{site.baseurl}}/assets/images/roma-discussion.jpg)
+![A picture of a cute cat]({{site.baseurl}}/assets/images/cutecat.jpg)
 
 The project will facilitate the study of Roma identity, history and culture in order start a dialogue about the Roma's unique place in the world as a people without a specific nation-state or a religion, who have lived on the fringes of societies worldwide and faced isolation, rejection and discrimination for centuries.
 
