@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Roma Peoples Project Welcomes Roma Delegation from Spain"
-description: "In this post we introduce our project to the Columbia community and the public at large." 
+description: "In this post we discuss our meeting and exchange of ideas with the members of a U.S. State Department-sponsored Roma delegation from Spain who visited us at Columbia University." 
 image: assets/images/roma-delegation.jpg
 ---
 
