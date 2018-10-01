@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Imagine There’s No Country\: The Remarkable Life and Art of Jan Yoors and His Love for the Roma People"
+title: "Imagine There’s No Country: The Remarkable Life and Art of Jan Yoors and His Love for the Roma People"
 description: "We invite you to join us on October 15th for a celebration of Jan Yoors' life and his love for the Roma People." 
 image: assets/images/poster-october.jpg
 ---
