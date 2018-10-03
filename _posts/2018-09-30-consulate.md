@@ -16,4 +16,4 @@ Where: World Room, Second Floor
 Pulitzer Hall, School of Journalism, Columbia University 
 2950 Broadway, New York (Between 115th - 116th and Broadway) 
 
-To RSVP send a message bellow or e-mail romapeoplesproject@columbia.edu
+To RSVP send a message bellow, e-mail romapeoplesproject@columbia.edu or fhny@flandershouse.org 
