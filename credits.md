@@ -6,7 +6,9 @@ nav-menu: true
 
 ## The Core Team
 - **Cristiana Grigore**, Founder & Lead
-- **Cal Brisbin**, Research Assistant
+- **Cal Brisbin**, Core Collaborator
+- **Laura Waldman**, Core Collaborator
+- **Sarah Zawacki**, Core Collaborator
 
 ## Production Partners
 - **[Alex Gil](http://www.elotroalex.com)**, Digital Scholarship Coordinator, Columbia University 
@@ -15,7 +17,7 @@ nav-menu: true
 ## Organizational Partners
 
 **Center for Justice at Columbia University**   
-The Center hosts the Roma People’s Project and support its development. The RPP aligns with the Center’s mission of empowering vulnerable people who suffer from criminalized identities, discrimination, stigma, and lack of inclusion within mainstream society.
+The Center hosts the Roma Peoples Project and support its development. The RPP aligns with the Center’s mission of empowering vulnerable people who suffer from criminalized identities, discrimination, stigma, and lack of inclusion within mainstream society.
 
 **Columbia University Libraries \| Digital Scholarship**   
 Digital Scholarship is helping implement several components of the digital apparatus for the project.
@@ -34,7 +36,8 @@ The Heyman Center co-sponsors the launch event for the Roma People’s Project.
 ## Advisory Board
 
 - Ronald Lee, LL.D, Author, Lecturer, Founding Member of the Roma Community Centre of Toronto
-- Stefania Magidson, Founder and President,Blue Heron Foundation
+- Hedina Tahirović-Sijerčić, PhD, Roma Author, Expert in Regional and Minority Languages, Council of Europe
+- Stefania Magidson, Founder and President, Blue Heron Foundation
 - Tom O’Handley, Director of Development at Cornell Tech
 - Nicole Shea, PhD, Director of the Council for European Studies, Executive Editor of EuropeNow
 
