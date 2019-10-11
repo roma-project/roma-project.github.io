@@ -7,8 +7,7 @@ image: assets/images/seminar-participants.jpg
 
 On October 9th, 2019, we held the [first in a series of Roma Studies seminars](https://harriman.columbia.edu/event/virtual-spaces-imagined-communities-political-artifacts-or-necessities): 
 
-Roma Peoples: Between Nations and Globalism 
-Introducing Roma Studies to Columbia University.
+Roma Peoples: Between Nations and Globalism, Introducing Roma Studies to Columbia University.
 
 The seminar series is a new initiative in partnership with the [Harriman Institute for Russian, Eurasian and East European Studies](https://harriman.columbia.edu/). 
 
