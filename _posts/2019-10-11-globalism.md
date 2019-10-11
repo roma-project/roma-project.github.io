@@ -11,7 +11,7 @@ The seminar series is a new initiative in partnership with the [Harriman Institu
 
 Our seminars are drawing connections between Roma Studies, East European Studies and Global Studies, addressing topics such as mobility, stigma, displacement and the condition of the Roma people in different regions. Roma Studies has long been a neglected topic in academia, often viewed as tangential to other fields of research. By prioritizing these topics, we are bringing Roma Studies to the forefront of academia, engaging partners and allies of the Roma cause at Columbia University and in New York. 
 
-![Oana Seminar]({{site.baseurl}}/assets/images/oana-seminar.jpg)
+![Teodor Seminar]({{site.baseurl}}/assets/images/teodor-seminar.jpg)
 
 We opened the seminar with an introduction to the Roma Peoples Project’s mission to create for the Roma, *a people without a country of their own*, a space to express their identities, tell their stories, explore their histories, raise awareness about their communities and connect with other Roma and friends of Roma. 
 
