@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Roma Peoples: Between Nations and Globalism"
-description: "Introducing Roma Studies to Columbia University" 
+title: "Roma Studies Seminar: Virtual Spaces for Imagined Communities"
+description: "This is the first in a series of seminars introducing Roma Peoples: Between Nations and Globalism to Columbia University" 
 image: assets/images/seminar-participants.jpg
 ---
 
