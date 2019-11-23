@@ -15,7 +15,7 @@ On November 13th, 2019, at Columbia University’s Harriman Institute for Russia
 
 **Sarah Zawacki**, Core Collaborator of the Roma Peoples Project, and **Cristiana Grigore** presented the project’s achievements in its first two years, highlighting the initiatives we’ve implemented to spark discussions of Roma representation at Columbia University and beyond. Key activities included launching a Roma Studies seminar at Columbia, supporting Roma scholars to gather data and disseminate their work, publishing articles on Roma representation in major media outlets, and developing digital connect with Roma and friends of Roma from around the world.
 
-![Anniversary Presentation]({{site.baseurl}}/assets/images/anniversary-presentation.jpg)
+![Achievements Presentation]({{site.baseurl}}/assets/images/achievements-presentation.jpg)
 
 These achievements were possible through the commitment and dedication of our community of collaborators, partners and contributors. We were honored to present some of our long-term partners and collaborators with diplomas recognizing their commitment and dedication to the project. Here is the list of recipients whom we honored with an award for distinguished service:
 
