@@ -27,6 +27,8 @@ These achievements were possible through the commitment and dedication of our co
 
 ![Cal Award]({{site.baseurl}}/assets/images/cal-award.jpg)
 
+- **Ronald Lee**, who has been a fundamental part of the Roma Peoples Project since its launch event in November 2017, providing valuable advice and guidance. Dr. Ronald Lee is one of the world's most prominent Roma authors, linguists and activists. He is a founding member of the Roma Community Center, Toronto which assists Roma newcomers to Canada with their social integration and serves as a cultural center. 
+
 - **Geraldine Downey**, Director of Columbia University’s Center for Justice. Professor Downey has provided the project with critical institutional support and an incubation space for our ideas, proving that where there is a will to include Roma in mainstream academia, there is a way.
 
 ![Geraldine Award]({{site.baseurl}}/assets/images/geraldine-award.jpg)
