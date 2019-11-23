@@ -9,6 +9,8 @@ Two years ago, the Roma Peoples Project at Columbia University was an idea, grow
 
 On November 13th, 2019, at Columbia University’s Harriman Institute for Russian, Eurasian and East European Studies, we were honored to bring together at our close community of collaborators, supporters, partners and friends for an evening of celebration and sharing our aspirations for to the future.
 
+![Anniversary Reception]({{site.baseurl}}/assets/images/anniversary-reception.jpg)
+
 **Cristiana Grigore**, Founder of the Roma Peoples Project, opened the evening. She highlighted how remarkable it is to hold an event focused on Roma Studies—historically a tangential topic in academia—surrounded by Roma friends, supportive collaborators and partners. She commented as well on the need to continue and make sustainable the efforts started two years ago. **Alexander Cooley**, Director of the Harriman Institute, commented on the growing partnership between the Roma Peoples Project and the Harriman Institute, and the significant step that this represents for East European Studies at Columbia. **Elsa Stamatopoulou**, Director of the Individual People’s Rights Program at Columbia and advisor of the Roma Peoples Project, spoke about the project’s growth and main dimensions as well as the work we've done in increasing the visibility of the Roma people across media and academic channels. 
 
 ![Elsa Anniversary]({{site.baseurl}}/assets/images/elsa-anniversary.jpg)
