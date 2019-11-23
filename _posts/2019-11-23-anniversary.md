@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Celebrating Two Years of the Roma Peoples Project"
-description: "This is the first in a series of seminars introducing Roma Peoples: Between Nations and Globalism to Columbia University" 
+description: "November 2019 marks two years of our work in advancing new narratives for a global Roma people" 
 image: assets/images/anniversary-group.jpg
 ---
 
