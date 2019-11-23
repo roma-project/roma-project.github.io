@@ -5,7 +5,7 @@ description: "November 2019 marks two years of our work in advancing new narrati
 image: assets/images/anniversary-group.jpg
 ---
 
-Two years ago, the Roma Peoples Project at Columbia University was an idea, grown out of the need for more nuanced and accurate representations of Roma in academia, media and cultural institutions; as well as the need for a space where Roma and non-Roma scholars can connect. At our launch event in November 2017, we set out our plans for initiating a dialogue about Roma in the academic context and beyond. In our first two years, we have begun to turn these aspirations into realities
+Two years ago, the Roma Peoples Project at Columbia University was an idea, grown out of the need for more nuanced and accurate representations of Roma in academia, media and cultural institutions; as well as the need for a space where Roma and non-Roma scholars can connect. At our launch event in November 2017, we set out our plans for initiating a dialogue about Roma in the academic context and beyond. In our first two years, we have begun to turn these aspirations into realities.
 
 On November 13th, 2019, at Columbia University’s Harriman Institute for Russian, Eurasian and East European Studies, we were honored to bring together at our close community of collaborators, supporters, partners and friends for an evening of celebration and sharing our aspirations for to the future.
 
