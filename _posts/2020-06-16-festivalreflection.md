@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Roma Resilience: A Note From Our Director"
+title: "On Roma Resilience: A Note From Our Founder"
 description: "Cristiana Grigore reflects on the experience of hosting our first online educational festival."
 image: assets/images/holocaust-poster.jpg
 ---
