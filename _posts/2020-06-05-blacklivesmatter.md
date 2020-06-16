@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Roma Peoples Project Stands with our Black Friends and Colleagues"
-description: "We have postponed our educational festival in recognition of the Week of Action in Defense of Black Lives"
+description: "We have postponed our educational festival in recognition of the Week of Action in Defense of Black Lives."
 image: assets/images/blackout-heart.jpg
 ---
 Thank you to our incredible community for your continued support of our online educational festival: On Roma Matters & Other Compelling Stories. In light of recent events, we have decided to postpone this week's workshops, as we bring our attention on the Week of Action in Defense of Black Lives. As a community focused on uplifting and amplifying the voices of Roma people and their allies, we deeply understand the need for mutual support, kinship and solidarity. We are proud to stand with our Black friends and colleagues as they make their voices heard. We envision a world where equality is not just a concept to aspire to, but is the lived experience of all people.
