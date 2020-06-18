@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Insecurities: Roma Immigration and a Global Pandemic"
+title: "New Insecurities: Roma Immigration during the COVID-19 Pandemic"
 description: "The COVID-19 pandemic heightens immigration insecurity for Roma immigrants in the UK."
 image: assets/images/london-skyline.JPG
 ---
