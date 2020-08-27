@@ -26,7 +26,7 @@ Digital Scholarship is helping implement several components of the digital appar
 The *xpmethod* group is helping ideate the digital strategy for the project, and providing an intellectual home. 
 
 **Heyman Center for the Humanities**   
-The Heyman Center co-sponsors the launch event for the Roma People’s Project. 
+The Heyman Center co-sponsors the launch event for the Roma Peoples Project. 
 
 **The Council for European Studies**
 
@@ -35,10 +35,8 @@ The Heyman Center co-sponsors the launch event for the Roma People’s Project.
 
 ## Advisory Board
 
-- Ronald Lee, LL.D, Author, Lecturer, Founding Member of the Roma Community Centre of Toronto
-- Hedina Tahirović-Sijerčić, PhD, Roma Author, Expert in Regional and Minority Languages, Council of Europe
+- Alexander Cooley, Director, Harriman Institute of Russian, Eurasian, and East European Studies
 - Stefania Magidson, Founder and President, Blue Heron Foundation
-- Tom O’Handley, Director of Development at Cornell Tech
-- Nicole Shea, PhD, Director of the Council for European Studies, Executive Editor of EuropeNow
+- Hedina Tahirović-Sijerčić, PhD, Roma Author, Expert in Regional and Minority Languages, Council of Europe
 
 More Advisory Board updates will be announced soon.
