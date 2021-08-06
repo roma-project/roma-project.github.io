@@ -2,7 +2,7 @@
 layout: post
 title: "Thinking Beyond 'Roma are only here to beg'"
 description: "Cristiana Grigore confronts a pervasive and harmful stereotype about Roma." 
-image: assets/images/cristiana-columbia.jpg
+image: assets/images/helping-hand.jpg
 ---
 "When I grow up, I want to be a beggar. My dream in life is to be a beggar." 
 
