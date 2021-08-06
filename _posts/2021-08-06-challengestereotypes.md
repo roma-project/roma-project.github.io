@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thinking beyond "Roma are only here to beg""
+title: "Thinking beyond Roma are only here to beg"
 description: "Cristiana Grigore confronts a pervasive and harmful stereotype about Roma." 
 image: assets/images/cristiana-columbia.jpg
 ---
